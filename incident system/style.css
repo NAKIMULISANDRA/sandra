@@ -1,0 +1,13 @@
+.homebg{
+    background-image: url("./image1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.homebg1{
+    background-color: url("./image1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
